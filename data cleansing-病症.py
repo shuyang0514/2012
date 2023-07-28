@@ -1,5 +1,5 @@
 import os
-
+import numpy
 def concat(file_list,folder_path,file_new_name):
 
     str1 = ''
